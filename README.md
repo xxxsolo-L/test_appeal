@@ -1,6 +1,6 @@
 # 📬 Appeals System API
 
-[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14-brightgreen)](https://nodejs.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14-brightgreen)](https://nodejs.org/) 
 
 Небольшой и быстрый API для работы с анонимными обращениями.
 
@@ -19,8 +19,8 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone <репозиторий>
-   cd <папка>
+   git clone https://github.com/xxxsolo-L/test_appeal.git
+   cd test_appeal
    ```
 2. Установить зависимости:
    ```bash
@@ -79,6 +79,3 @@ src/
 
 ---
 
-## 🌟 Лицензия
-
-MIT © Ваше Имя или Компания
